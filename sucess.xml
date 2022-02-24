@@ -1,0 +1,31 @@
+<story>
+    <!-- 第一幕 -->
+    <order name = "0">
+        <character>旁白</character>
+        <dialog>愛麗絲跟兔子先生逃出花園後，紅心女皇得知這個消息</dialog>
+    </order>
+    <order name = "1">
+        <character>旁白</character>
+        <dialog>因為太過生氣了，女皇開始胡亂摔起身邊的東西</dialog>
+    </order>
+    <order name = "2">
+        <character>旁白</character>
+        <dialog>在女皇摔壞某樣東西後，兔子先生突然變成了梅花王子</dialog>
+    </order>\
+    <order name = "3">
+        <character>愛麗絲</character>
+        <dialog>兔….兔子先生你怎麼了</dialog>
+    </order>
+    <order name = "4">
+        <character>王子</character>
+        <dialog>謝謝你,愛麗絲小姐,數年前我被女皇下了詛咒變成兔子</dialog>
+    </order>
+    <order name = "5">
+        <character>王子</character>
+        <dialog>幫助我解除了詛咒,接下來妳該回去妳的世界了</dialog>
+    </order>
+    <order name = "6">
+        <character>旁白</character>
+        <dialog>愛麗絲 : 真是一場有趣的夢呢~</dialog>
+    </order>
+</story>

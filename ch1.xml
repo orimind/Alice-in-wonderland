@@ -1,0 +1,61 @@
+<story>
+    <order name = "0">
+        <character></character>
+        <dialog>背景留白</dialog>
+    </order>
+    <order name = "1">
+        <character>旁白</character>
+        <dialog>這天愛麗絲跟姊姊到樹林散步，兩人靠在一旁的樹下看書</dialog>
+    </order>
+    <order name = "2">
+        <character>旁白</character>
+        <dialog>這時，愛麗絲看見一邊喃喃自語一邊奔向樹洞的奇特兔子</dialog>
+    </order>
+    <order name = "3">
+        <character>旁白</character>
+        <dialog>好奇的愛麗絲跟隨兔子進入樹洞</dialog>
+    </order>
+    <order name = "4">
+        <character></character>
+        <dialog>背景下墜</dialog>
+    </order>
+    <order name = "5">
+        <character></character>
+        <dialog>背景大廳</dialog>
+    </order>
+    <order name = "6">
+        <character>旁白</character>
+        <dialog>落地後的愛麗絲一臉茫然，四處張望，隨後看見兔子往遠方跑去並消失</dialog>
+    </order>
+    <order name = "7">
+        <character>旁白</character>
+        <dialog>此時一扇門開口問道</dialog>
+    </order>
+    <order name = "8">
+        <character>門</character>
+        <dialog>孩子妳迷路了嗎?</dialog>
+    </order>
+    <order name = "9">
+        <character>愛麗絲</character>
+        <dialog>你能告訴我兔子先生跑去哪裡了嗎?</dialog>
+    </order>
+    <order name = "10">
+        <character>門</character>
+        <dialog>不行，孩子，妳只能靠自己找到屬於自己的道路</dialog>
+    </order>
+    <order name = "11">
+        <character>愛麗絲</character>
+        <dialog>好吧</dialog>
+    </order>
+    <order name = "12">
+        <character></character>
+        <dialog>進入關卡</dialog>
+    </order>
+</story>
+
+<!-- </story>
+    <story>
+    <order></order>
+    <character></character>
+    <dialog></dialog>
+</story> -->

@@ -1,0 +1,157 @@
+<story>
+    <order name = "0">
+        <character>旁白</character>
+        <dialog>穿過大門後，愛麗絲面前出現一片美麗的草原</dialog>
+    </order>
+    <order name = "1">
+        <character>愛麗絲</character>
+        <dialog>那不是兔子先生嗎?</dialog>
+    </order>
+    <order name = "2">
+        <character>旁白</character>
+        <dialog>愛麗絲發現一開始跳進樹洞的兔子先生</dialog>
+    </order>
+    <order name = "3">
+        <character>旁白</character>
+        <dialog>兔子先生背著一個大袋子，焦急地往某處跑去</dialog>
+    </order>
+    <order name = "4">
+        <character>愛麗絲</character>
+        <dialog>嗨!兔子先生!</dialog>
+    </order>
+    <order name = "5">
+        <character>兔子先生</character>
+        <dialog>哇!</dialog>
+    </order>
+    <order name = "6">
+        <character></character>
+        <dialog>背景留白</dialog>
+    </order>
+    <order name = "7">
+        <character>旁白</character>
+        <dialog>被聲音嚇到的兔子先生向前摔倒，袋子碎裂，手套在草地上散開</dialog>
+    </order>
+     <order name = "8">
+        <character>愛麗絲</character>
+        <dialog>你沒事吧?</dialog>
+    </order>
+     <order name = "9">
+        <character>兔子先生</character>
+        <dialog>我沒事，可是…這該怎麼辦呢?</dialog>
+    </order>
+    <order name = "10">
+        <character>旁白</character>
+        <dialog>兔子先生看向散落一地的手套</dialog>
+    </order>
+    <order name = "11">
+        <character>愛麗絲</character>
+        <dialog>心想:是我害兔子先生摔倒的，要怎麼幫兔子先生呢?</dialog>
+    </order>
+    <order name = "12">
+        <character>旁白</character>
+        <dialog>愛麗絲拿出手提袋，將四散的手套裝進袋子並交給兔子先生</dialog>
+    </order>
+    <order name = "13">
+        <character>兔子先生</character>
+        <dialog>謝謝妳!對了，妳叫什麼名子?</dialog>
+    </order>
+    <order name = "14">
+        <character>愛麗絲</character>
+        <dialog>我叫愛麗絲</dialog>
+    </order>
+    <order name = "15">
+        <character></character>
+        <dialog>背景留白</dialog>
+    </order>
+    <order name = "16">
+        <character>兔子先生</character>
+        <dialog>愛麗絲，謝謝妳的幫忙，我剛好有帶我寶貝的蜂蜜</dialog>
+    </order>
+    <order name = "17">
+        <character>兔子先生</character>
+        <dialog>不介意我的我可以分妳一些</dialog>
+    </order>
+    <order name = "18">
+        <character>愛麗絲</character>
+        <dialog>心想:蜂蜜!可是需要有容器才能裝</dialog>
+    </order>
+    <order name = "19">
+        <character>旁白</character>
+        <dialog>愛麗絲成功分到一些蜂蜜，與兔子道別後在草原上繼續前進</dialog>
+    </order>
+    <order name = "20">
+        <character></character>
+        <dialog>背景留白</dialog>
+    </order>
+    <order name = "21">
+        <character>貓</character>
+        <dialog>妳要去哪裡?</dialog>
+    </order>
+    <order name = "22">
+        <character>愛麗絲</character>
+        <dialog>我不知道</dialog>
+    </order>
+    <order name = "23">
+        <character>貓</character>
+        <dialog>不知道的話，每一條路都一樣，沒有差別</dialog>
+    </order>
+    <order name = "24">
+        <character>愛麗絲</character>
+        <dialog>那…我想去好玩的地方!</dialog>
+    </order>
+    <order name = "25">
+        <character>貓</character>
+        <dialog>我為什麼要告訴妳?</dialog>
+    </order>
+        <order name = "26">
+        <character>愛麗絲</character>
+        <dialog>我身上有蜂蜜!作為交換，你願意告訴我嗎?</dialog>
+    </order>
+        <order name = "27">
+        <character>旁白</character>
+        <dialog>貓沒興趣的看向其他地方</dialog>
+    </order>
+        <order name = "28">
+        <character>貓</character>
+        <dialog>這附近除了白兔珍藏的蜂蜜，其他蜂蜜都不好吃</dialog>
+    </order>
+        <order name = "29">
+        <character>愛麗絲</character>
+        <dialog>這是兔子先生分給我的喔</dialog>
+    </order>
+    <order name = "30">
+        <character>貓</character>
+        <dialog>真的嗎!那蜂蜜先給我，我可以跟妳交換情報</dialog>
+    </order>
+    <order name = "31">
+        <character>旁白</character>
+        <dialog>愛麗絲將蜂蜜遞給貓咪</dialog>
+    </order>
+    <order name = "32">
+        <character>貓</character>
+        <dialog>是白兔的蜂蜜沒錯!我在附近藏了一本書，書上會有妳想要的資訊</dialog>
+    </order>
+    <order name = "33">
+        <character>旁白</character>
+        <dialog>貓說完後，叼著蜂蜜一眨眼就消失了</dialog>
+    </order>
+    <order name = "34">
+        <character>愛麗絲</character>
+        <dialog>太詐了…為什麼不直接告訴我那本書藏在哪裡呢?</dialog>
+    </order>
+    <order name = "35">
+        <character>旁白</character>
+        <dialog>愛麗絲在書上發現一條路通往永不結束的茶會</dialog>
+    </order>
+    <order name = "36">
+        <character>旁白</character>
+        <dialog>愛麗絲決定去一探究竟</dialog>
+    </order>
+</story>
+
+<!-- 
+    <order name = "">
+        <character>旁白</character>
+        <dialog></dialog>
+    </order>
+</story> -->

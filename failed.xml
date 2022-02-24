@@ -1,0 +1,15 @@
+<story>
+    <!-- 第一幕 -->
+    <order name = "0">
+        <character>旁白</character>
+        <dialog>愛麗絲被士兵帶上了處刑台</dialog>
+    </order>
+    <order name = "1">
+        <character>旁白</character>
+        <dialog>一陣暈眩之後愛麗絲從夢裡醒了過來</dialog>
+    </order>
+    <order name = "2">
+        <character>愛麗絲</character>
+        <dialog>呼!好險只是一場夢</dialog>
+    </order>
+</story>

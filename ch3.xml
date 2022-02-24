@@ -1,0 +1,210 @@
+<story>
+    <order name = "0">
+        <character>旁白</character>
+        <dialog>愛麗絲發現戴帽子的男人與三月兔在舉行茶會，茶桌旁還有許多空位，愛麗絲也想加入</dialog>
+    </order>
+    <order name = "1">
+        <character>愛麗絲</character>
+        <dialog>我可以加入你們嗎?</dialog>
+    </order>
+    <order name = "2">
+        <character>三月兔</character>
+        <dialog>可是我們人已經滿了</dialog>
+    </order>
+    <order name = "3">
+        <character>愛麗絲</character>
+        <dialog>明明還有很多空位</dialog>
+    </order>
+    <order name = "4">
+        <character>三月兔</character>
+        <dialog>好吧，那妳得先通過我出的謎題才有資格參加</dialog>
+    </order>
+    <!-- 關卡11111111111111111111111111111111111111111111111111111111111111111111111111111 -->
+    <order name = "5">
+        <character>猜謎關卡</character>
+        <dialog>題目</dialog>
+    </order>
+    <order name = "6">
+        <character>猜謎關卡</character>
+        <dialog>辨識中</dialog>
+    </order>
+    <!-- 關卡11111111111111111111111111111111111111111111111111111111111111111111111111111 -->
+    <!-- 關卡1111111111關卡失敗劇情 -->
+    <order name = "7">
+        <character>三月兔</character>
+        <dialog>哼哼~看來妳要離開了!</dialog>
+    </order>
+     <order name = "8">
+        <character>愛麗絲</character>
+        <dialog>拜託~我很會講故事，一定能帶給你們很多樂趣</dialog>
+    </order>
+     <order name = "9">
+        <character>瘋帽子</character>
+        <dialog>我還挺喜歡聽故事，三月兔，就讓她參加茶會吧</dialog>
+    </order>
+    <!-- 關卡1111111111通關劇情 -->
+    <order name = "10">
+        <character>三月兔</character>
+        <dialog>好吧~就讓妳留下來</dialog>
+    </order>
+    <order name = "11">
+        <character>旁白</character>
+        <dialog>說服三月兔後，找了空位坐下來</dialog>
+    </order>
+    <order name = "12">
+        <character></character>
+        <dialog>劇情留白</dialog>
+    </order>
+    <order name = "13">
+        <character>瘋帽子</character>
+        <dialog>妳的頭髮實在長到不像話耶</dialog>
+    </order>
+    <order name = "14">
+        <character>愛麗絲</character>
+        <dialog>你不該隨便評論別人，這樣很失禮耶</dialog>
+    </order>
+    <order name = "15">
+        <character>三月兔</character>
+        <dialog>不請自來也很失禮</dialog>
+    </order>
+    <order name = "16">
+        <character>旁白</character>
+        <dialog>戴帽子的男人沒理會愛麗絲，自顧自地說</dialog>
+    </order>
+    <order name = "17">
+        <character>瘋帽子</character>
+        <dialog>為什麼烏鴉會像一張寫字台呢?</dialog>
+    </order>
+    <order name = "18">
+        <character>愛麗絲</character>
+        <dialog>我一定猜得出來!</dialog>
+    </order>
+    <order name = "19">
+        <character>旁白</character>
+        <dialog>過了一段時間後…</dialog>
+    </order>
+    <order name = "20">
+        <character>愛麗絲</character>
+        <dialog>我放棄…所以答案是什麼</dialog>
+    </order>
+    <order name = "21">
+        <character>瘋帽子</character>
+        <dialog>我不知道答案</dialog>
+    </order>
+    <order name = "22">
+        <character>三月兔</character>
+        <dialog>我也不知道</dialog>
+    </order>
+    <order name = "23">
+        <character>愛麗絲</character>
+        <dialog>思考這種沒有謎底的謎語，簡直浪費時間</dialog>
+    </order>
+    <order name = "24">
+        <character>瘋帽子</character>
+        <dialog>我跟時間吵架了，它再也不理我了</dialog>
+    </order>
+        <order name = "25">
+        <character>愛麗絲</character>
+        <dialog>我不明白</dialog>
+    </order>
+        <order name = "26">
+        <character>瘋帽子</character>
+        <dialog>妳當然不明白，我敢打賭妳從來沒有跟時間說過話</dialog>
+    </order>
+    <order name = "27">
+        <character>愛麗絲</character>
+        <dialog>或許我可以幫你找出吵架的原因</dialog>
+    </order>
+    <!-- 關卡22222222222222222222222222222222222222222222222222222222222222222222222222222 -->
+    <order name = "28">
+        <character>猜謎關卡</character>
+        <dialog>題目</dialog>
+    </order>
+    <order name = "29">
+        <character>猜謎關卡</character>
+        <dialog>辨識中</dialog>
+    </order>
+    <!-- 關卡22222222222222222222222222222222222222222222222222222222222222222222222222222 -->
+    <order name = "30">
+        <character>旁白</character>
+        <dialog>愛麗絲還在思考與時間吵架的原因時，三月兔打斷愛麗絲的思考</dialog>
+    </order>
+    <order name = "31">
+        <character>三月兔</character>
+        <dialog>妳應該再多喝一點茶</dialog>
+    </order>
+    <order name = "32">
+        <character>愛麗絲</character>
+        <dialog>我連一點都還沒喝，怎麼能說再多喝呢?</dialog>
+    </order>
+    <order name = "33">
+        <character>旁白</character>
+        <dialog>愛麗絲有點不高興的回應</dialog>
+    </order>
+    <order name = "34">
+        <character>瘋帽子</character>
+        <dialog>妳應該說妳不能再少喝了</dialog>
+    </order>
+    <order name = "35">
+        <character>瘋帽子</character>
+        <dialog>比沒有喝再多喝一點是最容易的</dialog>
+    </order>
+    <order name = "36">
+        <character>愛麗絲</character>
+        <dialog>又沒有人問你!</dialog>
+    </order>
+    <order name = "37">
+        <character>瘋帽子</character>
+        <dialog>妳剛剛說我失禮，現在誰才失禮呢?</dialog>
+    </order>
+    <order name = "38">
+        <character>旁白</character>
+        <dialog>瘋帽子得意的說</dialog>
+    </order>
+    <order name = "39">
+        <character>愛麗絲</character>
+        <dialog>心想:這到底是什麼茶會…</dialog>
+    </order>
+    <order name = "40">
+        <character>愛麗絲</character>
+        <dialog>我想我該離開了</dialog>
+    </order>
+    <order name = "41">
+        <character>瘋帽子</character>
+        <dialog>妳只有解出最後的謎語，才能找到裡開這裡的關鍵喔</dialog>
+    </order>
+    <!-- 關卡33333333333333333333333333333333333333333333333333333333333333333333333333333 -->
+    <!-- 關卡失敗會重複循環 -->
+    <order name = "42">
+        <character>猜謎關卡</character>
+        <dialog>題目</dialog>
+    </order>
+    <order name = "43">
+        <character>猜謎關卡</character>
+        <dialog>辨識中</dialog>
+    </order>    
+    <!-- 關卡33333333333333333333333333333333333333333333333333333333333333333333333333333 -->
+    <order name = "44">
+        <character>旁白</character>
+        <dialog>解開謎語後，愛麗絲離開茶會</dialog>
+    </order>
+    <order name = "45">
+        <character>旁白</character>
+        <dialog>離開時，她不斷頻頻回頭，希望他們挽留自己</dialog>
+    </order>
+    <order name = "46">
+        <character>旁白</character>
+        <dialog>但瘋帽子和三月兔沉醉在自己的世界中</dialog>
+    </order>
+    <order name = "47">
+        <character>旁白</character>
+        <dialog>愛麗絲順著道路繼續前進</dialog>
+    </order>
+</story>
+
+<!-- 
+    <order name = "">
+        <character>旁白</character>
+        <dialog></dialog>
+    </order>
+</story> -->

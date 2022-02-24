@@ -1,0 +1,179 @@
+<story>
+    <!-- 第一幕 -->
+    <order name = "0">
+        <character>旁白</character>
+        <dialog>離開了茶會之後，愛麗絲走進了一個花園</dialog>
+    </order>
+    <order name = "1">
+        <character>旁白</character>
+        <dialog>她遇到了幾位撲克士兵正在將白玫瑰漆成紅玫瑰</dialog>
+    </order>
+    <order name = "2">
+        <character>愛麗絲</character>
+        <dialog>你們在做什麼?</dialog>
+    </order>
+    <order name = "3">
+        <character>士兵</character>
+        <dialog>皇后要我們種紅玫瑰，但我們不小心種成白玫瑰，所以只能把它漆成紅色</dialog>
+    </order>
+    <order name = "4">
+        <character>士兵</character>
+        <dialog>希望能趕在皇后到來之前完成</dialog>
+    </order>
+    <order name = "5">
+        <character>旁白</character>
+        <dialog>接著更多的紙牌士兵和紅心皇后也進入了花園</dialog>
+    </order>
+    <order name = "6">
+        <character>旁白</character>
+        <dialog>紅心皇后看了看花園，然後冷冷地說</dialog>
+    </order>
+    <order name = "7">
+        <character>女皇</character>
+        <dialog>砍掉他們的頭</dialog>
+    </order>
+    <order name = "8">
+        <character>沒漆好油漆的士兵</character>
+        <dialog>請等一下，再給我兩秒我就可以漆完了，求求您高抬貴手啊</dialog>
+    </order>
+    <!-- 第二幕 -->
+    <order name = "9">
+        <character>女皇</character>
+        <dialog>不用了，做事做這麼慢的人我不需要，來人阿!把他們的頭給我砍了</dialog>
+    </order>
+    <order name = "10">
+        <character>士兵</character>
+        <dialog>不!不要啊，救救我</dialog>
+    </order>
+    <order name = "11">
+        <character>旁白</character>
+        <dialog>士兵向一旁的愛麗絲求助</dialog>
+    </order>
+    <order name = "12">
+        <character>愛麗絲</character>
+        <dialog> 放心，你們不會被砍頭的</dialog>
+    </order>
+    <order name = "13">
+        <character>旁白</character>
+        <dialog>這時，許久不見的兔子先生從旁邊走了出來</dialog>
+    </order>
+    <order name = "14">
+        <character>兔子先生</character>
+        <dialog>愛麗絲，我可以幫妳</dialog>
+    </order>
+    <order name = "15">
+        <character>[語音模仿]</character>
+        <dialog>愛麗絲跟兔子將士兵藏在草叢中，並利用變聲魔法應付追趕的士兵</dialog>
+    </order>
+    <!-- 關卡1題目 -->
+    <order name = "16">
+        <character>[模仿女皇]</character>
+        <dialog>請使用女生的聲音生氣的說 : 趕快給我把犯錯的士兵拖下去砍了</dialog>
+    </order>
+    <order name = "17">
+        <character>[模仿女皇]</character>
+        <dialog>請使用女生的聲音開心的說 : 算了今天本王心情不錯決定不砍頭了</dialog>
+    </order>
+    <!-- 第二幕 -->
+    <order name = "18">
+        <character>女皇</character>
+        <dialog>砍掉他們的頭了嗎?</dialog>
+    </order>
+    <order name = "19">
+        <character>愛麗絲(變聲)</character>
+        <dialog>是的，皇后，他們的頭已經被砍掉了</dialog>
+    </order>
+    <order name = "20">
+        <character>旁白</character>
+        <dialog>這時皇后終於發現在一旁的愛麗絲</dialog>
+    </order>
+    <order name = "21">
+        <character>女皇</character>
+        <dialog>我看妳是個生面孔，妳是怎麼跑進我的花園來的?</dialog>
+    </order>
+    <order name = "22">
+        <character>愛麗絲</character>
+        <dialog>我…我是剛剛路過這邊的，想說看到這麼美麗的花園就進來逛逛了</dialog>
+    </order>
+    <order name = "23">
+        <character>女皇</character>
+        <dialog>不錯喔，難得遇到跟我一樣熱愛花園的人呢~</dialog>
+    </order>
+    <order name = "24">
+        <character>愛麗絲</character>
+        <dialog> 謝謝皇后的賞識</dialog>
+    </order>
+    <order name = "25">
+        <character>旁白</character>
+        <dialog>突然愛麗絲旁邊的兔子先生插話道</dialog>
+    </order>
+    <order name = "26">
+        <character>兔子先生</character>
+        <dialog>請問為什麼您要殺掉那位士兵呢？</dialog>
+    </order>
+    <order name = "27">
+        <character>女皇</character>
+        <dialog>因為他們做事效率太糟糕</dialog>
+    </order>
+    <order name = "28">
+        <character>兔子先生</character>
+        <dialog>您這樣做是不對的！</dialog>
+    </order>
+    <order name = "29">
+        <character>女皇</character>
+        <dialog>你們現在是在質疑我的行為嗎？</dialog>
+    </order>
+    <order name = "30">
+        <character>愛麗絲</character>
+        <dialog>我…我，這不是我的意思</dialog>
+    </order>
+    <order name = "31">
+        <character>兔子先生</character>
+        <dialog>沒有錯！</dialog>
+    </order>
+    <order name = "32">
+        <character>女皇</character>
+        <dialog>給我把他們的頭顱砍掉!</dialog>
+    </order>
+    <order name = "33">
+        <character>愛麗絲</character>
+        <dialog>等等，先不要阿</dialog>
+    </order>
+    <order name = "34">
+        <character>兔子先生</character>
+        <dialog>愛麗絲快跑</dialog>
+    </order>
+    <order name = "35">
+        <character>旁白</character>
+        <dialog>兔子先生拉著愛麗絲往花園的出口跑了出去</dialog>
+    </order>
+    <order name = "36">
+        <character>旁白</character>
+        <dialog>躲避士兵的追殺，愛麗絲在花園展開一系列的逃跑行動</dialog>
+    </order>
+    <order name = "37">
+        <character>[語音模仿]</character>
+        <dialog>關卡描述:請運用愛麗絲的變聲魔法，混亂士兵的方向感吧!</dialog>
+    </order>
+    <order name = "38">
+        <character>模仿士兵</character>
+        <dialog>請使用男生的聲音生氣的說 : 他們往左邊跑了</dialog>
+    </order>
+    <order name = "39">
+        <character>模仿士兵</character>
+        <dialog>請使用男生的聲音生氣說 : 不對!他們在右邊</dialog>
+    </order>
+    <order name = "40">
+        <character>模仿士兵</character>
+        <dialog>請使用男生的聲音開心說 : 我找到他們了，你們快來</dialog>
+    </order>
+    <!-- 題目 -->
+
+</story>
+
+<!-- </story>
+    <story>
+    <order></order>
+    <character></character>
+    <dialog></dialog>
+</story> -->
